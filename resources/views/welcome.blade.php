@@ -4,7 +4,7 @@
     @vite(['resources/js/welcome.js'])
 @endpush
 
-@section('title','Welcome to livewire with DaisyUI')
+@section('title','Welcome to Livewire with DaisyUI')
 
 @section('content')
 <div class="min-h-screen flex justify-center items-center">
@@ -18,7 +18,7 @@
             <h2 class="card-title">Welcome Livewire with DaisyUI</h2>
             <p>Repo created by MutoLucas</p>
             <p>With this repository, you can now create Livewire components and use DaisyUI on them.</p>
-            <p>This is a standard project, so you don't have to waste time setting up Liveiwie, DaisyUI and TailwindCss.</p>
+            <p>This is a standard project, so you don't have to waste time setting up Livewire, DaisyUI and TailwindCss.</p>
             <div class="card-actions justify-end">
                 <a class="btn btn-soft btn-primary" href="https://github.com/MutoLucas">Check out</a>
             </div>
