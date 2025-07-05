@@ -20,7 +20,7 @@
             <p>With this repository, you can now create Livewire components and use DaisyUI on them.</p>
             <p>This is a standard project, so you don't have to waste time setting up Livewire, DaisyUI and TailwindCss.</p>
             <div class="card-actions justify-end">
-                <a class="btn btn-soft btn-primary" href="https://github.com/MutoLucas">Check out</a>
+                <a class="btn btn-soft btn-primary" href="https://github.com/MutoLucas">Check out <x-heroicon-o-link class="w-5 h-5"/> </a>
             </div>
         </div>
     </div>

@@ -34,7 +34,7 @@ php artisan migrate
 5. Start the server:
 
 ```bash
-composer run dev
+composer run devrun
 ```
 
 ## 🤝 Contribution
