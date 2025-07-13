@@ -1,4 +1,4 @@
-@extends('layouts.deafult')
+@extends('layouts.default')
 
 @push('scriptVite')
     @vite(['resources/js/welcome.js'])
